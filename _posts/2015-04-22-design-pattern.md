@@ -2,7 +2,7 @@
 layout: post
 title: 设计模式与原则
 tags: design pattern 设计模式 原则 面向对象
-categories: common
+categories: design
 ---
 
 设计模式的定义：在某情境下，针对某问题的某种解决方案。但是满足此定义的方案并不一定是设计模式，设计模式要求解决方案必须是可复用的。
