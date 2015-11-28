@@ -40,7 +40,7 @@ categories: Linux
 
 **显示目前所在的目录**
 
-```shell
+```
 [root@www ~]# `pwd [-Pl]`
 ```
 
@@ -56,7 +56,7 @@ categories: Linux
 
 **创建新目录**
 
-```shell
+```
 [root@www ~]# `mkdir [-mp]` 目录名称
 ```
 
@@ -72,7 +72,7 @@ categories: Linux
 
 **删除『空』的目录**
 
-```shell
+```
 [root@www ~]# `rmdir [-p]` 目录名称
 ```
 
@@ -100,7 +100,7 @@ PATH是可以修改的，所以一般使用者还是可以透过修改PATH来运
 
 **查看文件与目录**
 
-```shell
+```
 [root@linux ~]# ls [-aAdfFhilRS] 目录名称
 [root@linux ~]# ls [--color={none,auto,always}] 目录名称
 [root@linux ~]# ls [--full-time] 目录名称
@@ -152,7 +152,7 @@ PATH是可以修改的，所以一般使用者还是可以透过修改PATH来运
 
 **复制文件或目录**
 
-```shell
+```
 [root@www ~]# cp [-adfilprsu] 来源档(source) 目标档(destination)
 [root@www ~]# cp [options] source1 source2 source3 .... directory
 ```
@@ -185,7 +185,7 @@ PATH是可以修改的，所以一般使用者还是可以透过修改PATH来运
 
 **移除文件或目录**
 
-```shell
+```
 [root@www ~]# rm [-fir] 文件或目录
 ```
 
@@ -203,7 +203,7 @@ PATH是可以修改的，所以一般使用者还是可以透过修改PATH来运
 
 **移动文件与目录，或更名**
 
-```shell
+```
 [root@www ~]# mv [-fiu] source destination
 [root@www ~]# mv [options] source1 source2 source3 .... directory
 ```
@@ -222,7 +222,7 @@ PATH是可以修改的，所以一般使用者还是可以透过修改PATH来运
 
 **取得路径的文件名称与目录名称**
 
-```shell
+```
 [root@www ~]# basename /etc/sysconfig/network
 network        <== 很简单！就取得最后的档名～
 [root@www ~]# dirname /etc/sysconfig/network
@@ -235,7 +235,7 @@ network        <== 很简单！就取得最后的档名～
 
 **查看文件**
 
-```shell
+```
 [root@www ~]# cat [-AbEnTv]
 ```
 
@@ -263,7 +263,7 @@ network        <== 很简单！就取得最后的档名～
 
 **添加行号显示**
 
-```shell
+```
 [root@www ~]# nl [-bnw] 文件
 ```
 
@@ -295,7 +295,7 @@ network        <== 很简单！就取得最后的档名～
 
 **一页一页翻动**
 
-```shell
+```
 [root@www ~]# more /etc/man.config
 ```
 
@@ -319,7 +319,7 @@ network        <== 很简单！就取得最后的档名～
 
 **一页一页翻动**
 
-```shell
+```
 [root@www ~]# less /etc/man.config
 ```
 
@@ -347,7 +347,7 @@ network        <== 很简单！就取得最后的档名～
 
 **取出前面几行**
 
-```shell
+```
 [root@www ~]# head [-n number] 文件
 ```
 
@@ -361,7 +361,7 @@ network        <== 很简单！就取得最后的档名～
 
 **取出后面几行**
 
-```shell
+```
 [root@www ~]# tail [-n number] 文件
 ```
 
@@ -377,7 +377,7 @@ network        <== 很简单！就取得最后的档名～
 
 **非纯文字档**
 
-```shell
+```
 [root@www ~]# od [-t TYPE] 文件
 ```
 
@@ -403,7 +403,7 @@ network        <== 很简单！就取得最后的档名～
 
 **修改文件时间或建置新档**
 
-```shell
+```
 [root@www ~]# touch [-acdmt] 文件
 ```
 
@@ -425,7 +425,7 @@ network        <== 很简单！就取得最后的档名～
 
 **查看文件类型**
 
-```shell
+```
 [root@www ~]# file 文件
 ```
 
