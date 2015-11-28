@@ -1,6 +1,6 @@
 permalink: /:year-:month-:day/:title/
 
-highlighter: pygments
+#highlighter: pygments
 markdown: redcarpet
 redcarpet:
   extensions: [
@@ -19,7 +19,7 @@ redcarpet:
    ,"prettify"
 #   ,"html_toc"
   ]
-
+gems: ["jekyll-paginate"]
 
 
 paginate: 10
@@ -28,17 +28,17 @@ baseurl: ""
 
 
 
-title: "RainyAlley"
-email: "dubuyuye@yeah.net"
+title: "MoRGaN"
+email: "gnyuan@gmail.com"
 description: "Developer"
-github_username:  "dubuyuye"
-swiftype_searchId: "ncwR9a8S9CTx2q9SgsJm"
-disqus_shortname: "rainyalley"
+github_username:  "gnyuan"
+swiftype_searchId: "jrgAVyFQaXaa44qtULtj"
+disqus_shortname: "gnyuangithubio"
 
 
 
-url: "http://blog.rainyalley.com"
-imgrepo: "http://blog.rainyalley.com/static/img"
-#url: "http://127.0.0.1:4000"
-#imgrepo: "http://127.0.0.1:4000/static/img"
+#url: "gnyuan.github.io"
+#imgrepo: "http://blog.rainyalley.com/static/img"
+url: "http://127.0.0.1:4000"
+imgrepo: "http://127.0.0.1:4000/static/img"
 

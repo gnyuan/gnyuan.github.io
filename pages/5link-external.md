@@ -5,6 +5,6 @@ permalink: /link/
 icon: octicon-link-external
 ---
 
-###[东方星痕](http://www.lxy520.net/)
+###[RainyAlley](http://blog.rainyalley.com/)
 
-###[Cass](http://cassite.net/)
+###[Jekyll](https://github.com/jekyll/jekyll)
