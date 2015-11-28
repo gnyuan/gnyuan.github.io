@@ -39,6 +39,6 @@ disqus_shortname: "gnyuangithubio"
 
 #url: "127.0.0.1:4000"
 #imgrepo: "127.0.0.1:4000/static/img"
-url: "https://gnyuan.github.io"
-imgrepo: "https://gnyuan.github.io/static/img"
+url: "http://gnyuan.github.io"
+imgrepo: "http://gnyuan.github.io/static/img"
 
