@@ -42,3 +42,73 @@ disqus_shortname: "gnyuangithubio"
 url: "http://gnyuan.github.io"
 imgrepo: "http://gnyuan.github.io/static/img"
 
+
+#icard setting
+# Author settings
+author:
+  name: Morgan GN Yuan
+  title: C/C++ Developer
+  address: Shenzhen, China
+  email: gnyuan@gmail.com
+  link: http://gnyuan.github.io
+  weibo: 
+  github: github.com/gnyuan
+  linkedin: 
+  twitter: 
+  gavatar: /static/icard/img/avatar.JPG
+  workHistory:
+    - work1:
+      company: a Financial Company
+      location: Shenzhen, China
+      title: C/RPG Developer
+      started: 2014
+      duration: (2014 - Present)
+      description: Work at AS400 and AIX. About Communication Technology.
+    - work2:
+      company: Baidu Inc.
+      location: Beijing, China
+      title: Data Analysis Intern
+      started: 2013
+      duration: (2013 - 2014)
+      description: Mining Search Data to improve search engine.
+  educationHistory:
+    - education1:
+      organization: Zhejiang University
+      degree: Master
+      major: Software Engineering
+      started: 2012
+      duration: (2012 - 2014)
+      description: Reserch about Time Series Mining and Software Desgin.
+    - education2:
+      organization: Tianjin University
+      degree: Bachelor
+      major: Software Engineering
+      started: 2008
+      duration: (2008 - 2012)
+      description: Basic Computer Foundations and Software Desgin.
+  languages:
+    - language1:
+      name: Chinese
+      proficiency: Native
+    - language2:
+      name: English
+      proficiency: Professional
+    - language3:
+      name: Cantonese
+      proficiency: Native
+  programmingSkills:
+    - skill1:
+      name: C/C++
+      percentage: 90%
+    - skill2:
+      name: Python
+      percentage: 90%
+    - skill3:
+      name: JavaScript
+      percentage: 80%
+    - skill4:
+      name: JQuery
+      percentage: 80%
+    - skill5:
+      name: Java/Java EE
+      percentage: 80%
