@@ -12,7 +12,7 @@ categories: stock
 
 ##交易时间：如下图
 
-![交易时间图](../static/img/2015-12-09-trade-time.png)
+![交易时间图]({{ site.ulr }}/static/img/2015-12-09-trade-time.png)
 
 **连续竞价阶段**，才能进行市价委托，集合竞价阶段。
 
