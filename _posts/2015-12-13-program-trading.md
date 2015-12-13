@@ -38,6 +38,10 @@ categories: stock
 3. [FIX Trading Community](http://www.fixtradingcommunity.org/),是金融业的数据交换协议吧。
 4. “成熟的CEP”事件驱动库，这个查了下，即（Complex Event Processing）,原来跟Stream Computting是一类的。就说，越新的事件价值越高，所以把事件处理作为核心，不落地到硬盘，而直接在内存中处理。它讲的成熟的CEP库，[WIKI](https://en.wikipedia.org/wiki/Complex_event_processing#In_financial_services)这个介绍没怎么清楚，不过他列出的几个参考资料不错。
 
+**规则引擎和CEP**：
+规则引擎：开源的方案包括Esper、Storm、Spark,商业方案包括APAMA/Streambase.[参考资料](http://wenku.baidu.com/view/02cb6cc1d5bbfd0a79567315.html?from=search)
+CEP：[参考资料](http://www.yeeach.com/post/1052)
+
 ##程序化交易风险管理
 
 如PPT所讲的，程序化交易涉及到多个实时风险点，包括程序化交易本身（如收益率，买卖时机）及来自监管层的限制（如撤单率、对敲禁止。P.S. 他还不忘黑一下Exchange，15笔每毫秒是其峰值，不可突破其限制）
