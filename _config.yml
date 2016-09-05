@@ -49,30 +49,36 @@ imgrepo: "http://gnyuan.github.io/static/img"
 # Author settings
 author:
   name: Morgan GN YUAN
-  title: C/C++ Developer
+  title: C/Java Developer
   address: Shenzhen, China
   email: gnyuan@gmail.com
   link: http://gnyuan.github.io
-  weibo: http://wibo.com/yuangn 
+  weibo: http://weibo.com/yuangn 
   github: github.com/gnyuan
   linkedin: 
   twitter: 
   gavatar: /static/icard/img/avatar.JPG
   workHistory:
     - work1:
-      company: a Financial Company
+      company: ChinaClear(the financial infrasturcture of China)
       location: Shenzhen, China
-      title: C/RPG Developer
+      title: C/Java/RPG Developer
       started: 2014
       duration: (2014 - Present)
-      description: Work at AS400 and AIX. About Communication Technology.
+      description: Work at AIX, SUSE and AS400. About Communication Technology.
+      <br />1. Design and develop communication protocol between Shenzhen Stock Exchange and ChinaClear using socket.
+      <br />2. Deploy an open source process monitoring platform called RAMONA(python based) to monitor all backend process.
+      <br />3. Maintain a data deliver platform called 'D-COM' among ChinaClear and Clearing participators(Brokerage, Fund, Custodian Bank) using Java and relevant middle-wares.
+      <br />4. Make ETL process, genearate daily report from raw stock data using Java and Python.
     - work2:
       company: Baidu Inc.
       location: Beijing, China
       title: Data Analysis Intern
       started: 2013
       duration: (2013 - 2014)
-      description: Mining Search Data to improve search engine.
+      description: Mining Search Log to improve search engine and monitor effect of new features.
+      <br />1. Make ETL process from raw log to generate indicators,analysis user data using Hive and MapReduce.
+      <br />2. Build models to predict user search satisfaction using machine learning platform.
   educationHistory:
     - education1:
       organization: Zhejiang University
@@ -80,7 +86,8 @@ author:
       major: Software Engineering
       started: 2012
       duration: (2012 - 2014)
-      description: Research about Time Series Mining and Software Desgin.
+      description: Research on Time Series Mining and Software Desgin.
+      <br/ >Winner of National Scholorship.
     - education2:
       organization: Tianjin University
       degree: Bachelor
@@ -113,4 +120,7 @@ author:
       percentage: 80%
     - skill5:
       name: Java/Java EE
+      percentage: 80%
+    - skill6:
+      name: Linux/Unix
       percentage: 80%
