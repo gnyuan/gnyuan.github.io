@@ -66,10 +66,10 @@ author:
       started: 2014
       duration: (2014 - Present)
       description: Work at AIX, SUSE and AS400. About Communication Technology.
-      <br />1. Design and develop communication protocol between Shenzhen Stock Exchange and ChinaClear using socket.
-      <br />2. Deploy an open source process monitoring platform called RAMONA(python based) to monitor all backend process.
-      <br />3. Maintain a data deliver platform called 'D-COM' among ChinaClear and Clearing participators(Brokerage, Fund, Custodian Bank) using Java and relevant middle-wares.
-      <br />4. Make ETL process, genearate daily report from raw stock data using Java and Python.
+       1. Design and develop communication protocol between Shenzhen Stock Exchange and ChinaClear using socket.
+       2. Deploy an open source process monitoring platform called RAMONA(python based) to monitor all backend process.
+       3. Maintain a data deliver platform called 'D-COM' among ChinaClear and Clearing participators(Brokerage, Fund, Custodian Bank) using Java and relevant middle-wares.
+       4. Make ETL process, genearate daily report from raw stock data using Java and Python.
     - work2:
       company: Baidu Inc.
       location: Beijing, China
@@ -87,7 +87,7 @@ author:
       started: 2012
       duration: (2012 - 2014)
       description: Research on Time Series Mining and Software Desgin.
-      <br/ >Winner of National Scholorship.
+      Winner of National Scholorship.
     - education2:
       organization: Tianjin University
       degree: Bachelor
