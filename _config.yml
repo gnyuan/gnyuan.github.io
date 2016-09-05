@@ -77,8 +77,8 @@ author:
       started: 2013
       duration: (2013 - 2014)
       description: Mining Search Log to improve search engine and monitor effect of new features.
-      <br />1. Make ETL process from raw log to generate indicators,analysis user data using Hive and MapReduce.
-      <br />2. Build models to predict user search satisfaction using machine learning platform.
+       1. Make ETL process from raw log to generate indicators,analysis user data using Hive and MapReduce.
+       2. Build models to predict user search satisfaction using machine learning platform.
   educationHistory:
     - education1:
       organization: Zhejiang University
